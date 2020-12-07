@@ -264,12 +264,12 @@ export default {
               {
                 label: "Own",
                 value:
-                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own.ini"
+                  "https://github.com/alebiaji/sub-web/raw/master/own.ini"
               },
               {
                 label: "Own_Plus",
                 value:
-                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own__full.ini"
+                  "https://github.com/alebiaji/sub-web/raw/master/own__full.ini"
               },
               {
                 label: "ACL4SSR_Online_Full_NoAuto",
