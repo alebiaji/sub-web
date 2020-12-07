@@ -46,7 +46,6 @@
                     v-model="form.remoteConfig"
                     allow-create
                     filterable
-                    clearable
                     placeholder="请选择"
                     style="width: 100%"
                   >
@@ -264,12 +263,12 @@ export default {
               {
                 label: "Own",
                 value:
-                  "https://github.com/alebiaji/sub-web/raw/master/own.ini"
+                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own.ini"
               },
               {
                 label: "Own_Plus",
                 value:
-                  "https://github.com/alebiaji/sub-web/raw/master/own__full.ini"
+                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own__full.ini"
               },
               {
                 label: "ACL4SSR_Online_Full_NoAuto",
