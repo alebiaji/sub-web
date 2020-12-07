@@ -266,6 +266,11 @@ export default {
                   "https://raw.githubusercontent.com/alebiaji/sub-web/master/own.ini"
               },
               {
+                label: "Own_Plus",
+                value:
+                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own__full.ini"
+              },
+              {
                 label: "ACL4SSR_Online_Full_NoAuto",
                 value:
                   "https://raw.githubusercontent.com/tindy2013/subconverter/master/base/config/ACL4SSR_Online_Full_NoAuto.ini"
