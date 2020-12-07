@@ -271,7 +271,7 @@ export default {
                   "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/urltest.ini"
               }
             ]
-          }
+          },
           {
             label: "Special",
             options: [
