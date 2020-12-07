@@ -263,7 +263,7 @@ export default {
               {
                 label: "No-Urltest",
                 value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini"
+                  "https://raw.githubusercontent.com/alebiaji/sub-web/master/own.ini"
               },
               {
                 label: "Urltest",
