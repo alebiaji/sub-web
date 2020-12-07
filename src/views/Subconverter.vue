@@ -46,6 +46,7 @@
                     v-model="form.remoteConfig"
                     allow-create
                     filterable
+                    clearable
                     placeholder="请选择"
                     style="width: 100%"
                   >
